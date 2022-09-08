@@ -8,6 +8,7 @@
       "type": "Scooter",
       "model": "Dio",
       "left": "4",
+      "city": "Jaipur",
       "id": 1
     },
     {
@@ -18,7 +19,31 @@
       "type": "Scooter",
       "model": "Activa",
       "left": "5+",
+      "city": "Delhi",
       "id": 2
+    },
+    {
+      "name": "Honda Activa",
+      "img": "https://d3bvfezcznypk7.cloudfront.net/BikeImages/JPG/HondaActiva4G@2x.jpg",
+      "amt": "3649",
+      "excess": "5/km",
+      "type": "Scooter",
+      "model": "Activa",
+      "left": "15+",
+      "city": "Bengaluru",
+      "id": 3
+    },
+    {
+      "name": "Bajaj Avenger 220 Cruise",
+      "img": "https://d3bvfezcznypk7.cloudfront.net/BikeImages/JPG/BajajAvengerCruise220@2x.jpg",
+      "amt": "14449",
+      "excess": "2.5/km",
+      "type": "Motorcycle",
+      "model": "Avenger 220 Cruise",
+      "left": "3+",
+      "city": "Jaipur",
+      "id": 4
     }
+    
   ]
 }
