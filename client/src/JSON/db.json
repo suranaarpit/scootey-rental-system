@@ -1,0 +1,24 @@
+{
+  "details": [
+    {
+      "name": "Honda Dio",
+      "img": "https://d3bvfezcznypk7.cloudfront.net/BikeImages/JPG/HondaDio@2x.jpg",
+      "amt": "4599",
+      "excess": "2/km",
+      "type": "Scooter",
+      "model": "Dio",
+      "left": "4",
+      "id": 1
+    },
+    {
+      "name": "Honda Activa",
+      "img": "https://d3bvfezcznypk7.cloudfront.net/BikeImages/JPG/HondaActiva4G@2x.jpg",
+      "amt": "5649",
+      "excess": "2/km",
+      "type": "Scooter",
+      "model": "Activa",
+      "left": "5+",
+      "id": 2
+    }
+  ]
+}
